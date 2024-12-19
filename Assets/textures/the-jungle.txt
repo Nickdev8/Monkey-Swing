@@ -1,0 +1,31 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: The Jungle
+;Description: A palette I made for one of my upcoming drawings. Ez Clap
+;Colors: 25
+;https://lospec.com/palette-list/the-jungle
+FFacc765
+FF5c7855
+FF2b4f3c
+FF1e373c
+FF393045
+FF383c69
+FF4e6282
+FF7fb5c0
+FFc0dade
+FF868089
+FF4c4b4d
+FF413e44
+FF000000
+FF38232f
+FF622626
+FF924351
+FFbc7e7e
+FFf5f6b8
+FFe9bd8e
+FFc78749
+FFa36043
+FF715241
+FF674c45
+FF5a3837
+FF473030
