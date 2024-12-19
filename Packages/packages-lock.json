@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "com.vladfaust.unitywakatime": {
+      "hash": "31fe84232fc9f9c6e9606dc9e5a285886a94f26b",
+      "revision": "package"
+    },
     "com.unity.2d.animation": {
       "version": "9.0.2",
       "depth": 1,
